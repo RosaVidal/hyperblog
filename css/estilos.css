@@ -3,8 +3,15 @@ body
     color:black;
     text-align:left;
     font-family: "Arial";  
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
+#cabecera
+{
+    background: magenta;
+}
 #container 
 {
     width: 70%;
